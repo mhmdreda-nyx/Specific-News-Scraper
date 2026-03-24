@@ -42,7 +42,7 @@ This isn't just another simple web scraper. It's a highly resilient data extract
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/mhmdreda-nyx/news-scraper-pipeline.git
+   git clone https://github.com/mhmdreda-nyx/Specific-News-Scraper.git
    cd news-scraper-pipeline
    ```
 
