@@ -93,4 +93,4 @@ python main.py
 Contributions, issues, and feature requests are highly welcome! Feel free to check the issues page and submit Pull Requests.
 
 ## 📝 License
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) licensed.
